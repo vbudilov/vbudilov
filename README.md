@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir
 - 👀 I’m interested in Software & System Design, Microservices, Mobile & Web Development
-- 🌱 I’m currently learning Blockchains and Crypto
+- 🌱 I'm experimenting with AI/ML (GenAI, of course :) ) at the moment...figuring out how to plug it into business apps
 
 
 
